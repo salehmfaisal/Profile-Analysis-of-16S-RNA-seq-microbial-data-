@@ -1,0 +1,762 @@
+                       2.5 %   97.5 %
+(Intercept)         1.958464 2.784567
+factor(timegroup)5  5.790558 6.958844
+factor(timegroup)23 4.482721 5.651007
+factor(timegroup)37 2.739158 3.907444
+factor(timegroup)68 3.165301 4.643079
+                        2.5 %   97.5 %
+(Intercept)         0.9551011 2.433210
+factor(timegroup)5  7.1580956 9.248458
+factor(timegroup)23 3.2253728 5.315735
+factor(timegroup)37 3.6398049 5.730167
+factor(timegroup)68 1.5583429 4.202465
+                       2.5 %   97.5 %
+(Intercept)         3.242039 3.682042
+factor(timegroup)5  5.751082 6.373341
+factor(timegroup)23 1.238249 1.860508
+factor(timegroup)37 4.182768 4.805027
+factor(timegroup)68 4.825029 5.612131
+                          2.5 %   97.5 %
+(Intercept)         -0.05215642 1.631033
+factor(timegroup)5   3.43416363 5.814552
+factor(timegroup)23  6.13541482 8.515804
+factor(timegroup)37  4.49535271 6.875742
+factor(timegroup)68  3.75545677 6.766437
+                        2.5 %    97.5 %
+(Intercept)          8.169634  9.316372
+factor(timegroup)5  -6.893930 -5.272199
+factor(timegroup)23 -9.339020 -7.717288
+factor(timegroup)37 -7.159027 -5.537296
+factor(timegroup)68 -7.013213 -4.961867
+                        2.5 %    97.5 %
+(Intercept)          2.548720  5.030497
+factor(timegroup)5   3.044774  6.554537
+factor(timegroup)23 -7.377388 -3.867626
+factor(timegroup)37 -5.736273 -2.226510
+factor(timegroup)68 -8.768499 -4.328961
+                       2.5 %   97.5 %
+(Intercept)         0.265493 1.492025
+factor(timegroup)5  2.913264 4.647842
+factor(timegroup)23 3.730677 5.465255
+factor(timegroup)37 4.252658 5.987236
+factor(timegroup)68 3.625790 5.819877
+                        2.5 %    97.5 %
+(Intercept)         -2.124106 0.5063368
+factor(timegroup)5  -1.133354 2.5866544
+factor(timegroup)23  4.384196 8.1042040
+factor(timegroup)37  4.530249 8.2502566
+factor(timegroup)68  4.207874 8.9133528
+                       2.5 %   97.5 %
+(Intercept)         1.847339 2.421709
+factor(timegroup)5  2.335075 3.147356
+factor(timegroup)23 2.163861 2.976142
+factor(timegroup)37 5.773621 6.585902
+factor(timegroup)68 2.887205 3.914668
+                         2.5 %   97.5 %
+(Intercept)         -0.8563589 1.031217
+factor(timegroup)5   1.7742816 4.443717
+factor(timegroup)23  2.8893704 5.558806
+factor(timegroup)37  6.6659683 9.335404
+factor(timegroup)68  0.8734664 4.250065
+                        2.5 %     97.5 %
+(Intercept)          3.234174  5.7547763
+factor(timegroup)5  -6.899225 -3.3345549
+factor(timegroup)23 -9.084868 -5.5201980
+factor(timegroup)37 -3.859832 -0.2951617
+factor(timegroup)68  2.355708  6.8646982
+                       2.5 %   97.5 %
+(Intercept)         3.681572 3.969528
+factor(timegroup)5  2.609130 3.016362
+factor(timegroup)23 2.203639 2.610871
+factor(timegroup)37 2.017678 2.424910
+factor(timegroup)68 4.162405 4.677517
+                       2.5 %   97.5 %
+(Intercept)         2.986660 3.267075
+factor(timegroup)5  3.107914 3.504481
+factor(timegroup)23 3.076546 3.473112
+factor(timegroup)37 3.261144 3.657711
+factor(timegroup)68 2.406513 2.908134
+                         2.5 %    97.5 %
+(Intercept)          1.0389794  3.053793
+factor(timegroup)5   4.2822928  7.131669
+factor(timegroup)23 -5.3206930 -2.471317
+factor(timegroup)37  0.6630084  3.512384
+factor(timegroup)68 -7.5306357 -3.926428
+                        2.5 %    97.5 %
+(Intercept)         -2.999213 -1.149746
+factor(timegroup)5   4.624650  7.240192
+factor(timegroup)23  2.649756  5.265297
+factor(timegroup)37  5.614472  8.230013
+factor(timegroup)68  2.712826  6.021253
+                        2.5 %     97.5 %
+(Intercept)         -1.896447 -0.2108552
+factor(timegroup)5   6.357686  8.7414727
+factor(timegroup)23  3.977703  6.3614900
+factor(timegroup)37  6.113110  8.4968970
+factor(timegroup)68  1.878722  4.8940002
+                        2.5 %    97.5 %
+(Intercept)         -4.272637 -2.170116
+factor(timegroup)5   2.379070  5.352483
+factor(timegroup)23  2.759355  5.732768
+factor(timegroup)37  5.635519  8.608932
+factor(timegroup)68  7.499001 11.260104
+                        2.5 %    97.5 %
+(Intercept)           5.61270  8.428302
+factor(timegroup)5  -10.39275 -6.410887
+factor(timegroup)23 -12.25866 -8.276799
+factor(timegroup)37 -10.57635 -6.594489
+factor(timegroup)68 -12.29797 -7.261272
+                        2.5 %     97.5 %
+(Intercept)         -2.567895 -0.9412156
+factor(timegroup)5   3.925975  6.2264479
+factor(timegroup)23  3.567641  5.8681137
+factor(timegroup)37  6.531072  8.8315447
+factor(timegroup)68  3.916705  6.8265985
+                        2.5 %    97.5 %
+(Intercept)         -3.426740 -1.759876
+factor(timegroup)5   5.258990  7.616293
+factor(timegroup)23  5.390912  7.748215
+factor(timegroup)37  7.836105 10.193408
+factor(timegroup)68  4.601880  7.583658
+                        2.5 %    97.5 %
+(Intercept)          5.836990  6.897492
+factor(timegroup)5  -4.105552 -2.605775
+factor(timegroup)23 -6.906051 -5.406274
+factor(timegroup)37 -3.638852 -2.139075
+factor(timegroup)68 -6.434493 -4.537409
+                         2.5 %    97.5 %
+(Intercept)         -4.2649953 -2.011703
+factor(timegroup)5   0.5247168  3.711353
+factor(timegroup)23  6.0192860  9.205923
+factor(timegroup)37  5.7036538  8.890291
+factor(timegroup)68  3.6825887  7.713401
+                          2.5 %     97.5 %
+(Intercept)         -0.59680516 1.17657461
+factor(timegroup)5   2.77631018 5.28424791
+factor(timegroup)23 -2.44282709 0.06511064
+factor(timegroup)37  2.64896865 5.15690637
+factor(timegroup)68 -0.05246216 3.11985601
+                         2.5 %    97.5 %
+(Intercept)           5.318034  7.222159
+factor(timegroup)5   -8.035300 -5.342460
+factor(timegroup)23  -5.634962 -2.942122
+factor(timegroup)37  -4.562624 -1.869784
+factor(timegroup)68 -10.594684 -7.188480
+                         2.5 %    97.5 %
+(Intercept)         -3.5609507 -1.203577
+factor(timegroup)5   2.0896969  5.423527
+factor(timegroup)23  2.3210061  5.654836
+factor(timegroup)37 -0.8278024  2.506028
+factor(timegroup)68 -2.3477209  1.869278
+                         2.5 %    97.5 %
+(Intercept)         -5.0394161 -2.492699
+factor(timegroup)5  -1.4870332  2.114569
+factor(timegroup)23  6.2859655  9.887568
+factor(timegroup)37  0.5213771  4.122979
+factor(timegroup)68 -1.2709180  3.284789
+                         2.5 %    97.5 %
+(Intercept)          0.1213841  1.768956
+factor(timegroup)5  -4.3564617 -2.026443
+factor(timegroup)23  1.5436350  3.873654
+factor(timegroup)37  2.0901988  4.420217
+factor(timegroup)68  1.0595377  4.006804
+                         2.5 %    97.5 %
+(Intercept)         -4.5194866 -2.887504
+factor(timegroup)5   4.4756930  6.783665
+factor(timegroup)23  5.5908019  7.898774
+factor(timegroup)37  4.2623223  6.570295
+factor(timegroup)68  0.6261053  3.545485
+                         2.5 %     97.5 %
+(Intercept)         -2.8570731 -0.9949223
+factor(timegroup)5   3.9627637  6.5962427
+factor(timegroup)23  2.5813528  5.2148318
+factor(timegroup)37  3.0994599  5.7329389
+factor(timegroup)68  0.3447875  3.6759042
+                        2.5 %   97.5 %
+(Intercept)         2.4184885 2.772354
+factor(timegroup)5  0.5067833 1.007225
+factor(timegroup)23 0.7258651 1.226306
+factor(timegroup)37 0.5554797 1.055921
+factor(timegroup)68 3.1070489 3.740063
+                         2.5 %    97.5 %
+(Intercept)           4.924084  6.745634
+factor(timegroup)5  -10.888947 -8.312886
+factor(timegroup)23 -11.308503 -8.732442
+factor(timegroup)37 -10.789675 -8.213614
+factor(timegroup)68 -12.069273 -8.810785
+                         2.5 %     97.5 %
+(Intercept)           4.395173  6.7426446
+factor(timegroup)5   -8.054601 -4.7347749
+factor(timegroup)23 -10.575323 -7.2554967
+factor(timegroup)37  -7.214856 -3.8950302
+factor(timegroup)68  -4.746791 -0.5475065
+                        2.5 %     97.5 %
+(Intercept)         -2.469499 -0.2926857
+factor(timegroup)5   4.776120  7.8545983
+factor(timegroup)23 -2.441139  0.6373393
+factor(timegroup)37  4.209060  7.2875382
+factor(timegroup)68  1.627557  5.5215585
+                        2.5 %    97.5 %
+(Intercept)          2.181574  4.654646
+factor(timegroup)5  -7.931946 -4.434495
+factor(timegroup)23 -8.513337 -5.015885
+factor(timegroup)37 -8.513337 -5.015885
+factor(timegroup)68 -9.174602 -4.750637
+                        2.5 %    97.5 %
+(Intercept)         -5.047894 -3.323333
+factor(timegroup)5   3.868838  6.307735
+factor(timegroup)23 -1.120177  1.318720
+factor(timegroup)37  3.327067  5.765964
+factor(timegroup)68  4.010173  7.095161
+                        2.5 %    97.5 %
+(Intercept)          2.494049  4.863035
+factor(timegroup)5  -5.707961 -2.357708
+factor(timegroup)23 -5.770523 -2.420270
+factor(timegroup)37 -8.280613 -4.930360
+factor(timegroup)68 -6.354466 -2.116695
+                         2.5 %    97.5 %
+(Intercept)         -5.1586790 -3.212549
+factor(timegroup)5   0.4476932  3.199937
+factor(timegroup)23  6.3872476  9.139492
+factor(timegroup)37  4.3324005  7.084645
+factor(timegroup)68 -1.2372043  2.244140
+                        2.5 %    97.5 %
+(Intercept)         -4.637176 -2.696395
+factor(timegroup)5  -0.470664  2.274014
+factor(timegroup)23  4.112290  6.856968
+factor(timegroup)37  6.855779  9.600457
+factor(timegroup)68  6.967315 10.439089
+                        2.5 %    97.5 %
+(Intercept)         -3.919343 -1.934546
+factor(timegroup)5  -1.304192  1.502736
+factor(timegroup)23  5.969436  8.776363
+factor(timegroup)37  5.591891  8.398819
+factor(timegroup)68  4.587109  8.137623
+                        2.5 %     97.5 %
+(Intercept)          4.325246  5.9425308
+factor(timegroup)5  -9.980977 -7.6937901
+factor(timegroup)23 -5.430491 -3.1433045
+factor(timegroup)37 -3.026473 -0.7392864
+factor(timegroup)68 -5.801042 -2.9079543
+                        2.5 %    97.5 %
+(Intercept)         -4.664154 -3.707074
+factor(timegroup)5   4.600939  5.954455
+factor(timegroup)23  6.386192  7.739708
+factor(timegroup)37  6.650727  8.004243
+factor(timegroup)68  8.045372  9.757449
+                         2.5 %    97.5 %
+(Intercept)         -4.7984557 -2.733659
+factor(timegroup)5  -0.9412036  1.978860
+factor(timegroup)23  3.2932562  6.213320
+factor(timegroup)37  6.2959382  9.216002
+factor(timegroup)68  7.5040949 11.197716
+                        2.5 %    97.5 %
+(Intercept)          2.340166  3.770719
+factor(timegroup)5  -7.833054 -5.809946
+factor(timegroup)23 -8.672167 -6.649059
+factor(timegroup)37 -8.190048 -6.166940
+factor(timegroup)68 -8.940139 -6.381087
+                         2.5 %    97.5 %
+(Intercept)         -5.5172223 -3.693118
+factor(timegroup)5   6.5920463  9.171719
+factor(timegroup)23  1.9340168  4.513690
+factor(timegroup)37  5.6374015  8.217074
+factor(timegroup)68 -0.3882072  2.874850
+                          2.5 %    97.5 %
+(Intercept)          1.26605121 1.8876559
+factor(timegroup)5  -0.10870837 0.7703734
+factor(timegroup)23 -0.01398753 0.8650942
+factor(timegroup)37  1.78309032 2.6621721
+factor(timegroup)68  0.97347027 2.0854305
+                        2.5 %    97.5 %
+(Intercept)         -4.657602 -3.588501
+factor(timegroup)5   8.481643  9.993580
+factor(timegroup)23  4.994734  6.506671
+factor(timegroup)37  5.852920  7.364858
+factor(timegroup)68  4.026970  5.939436
+                         2.5 %    97.5 %
+(Intercept)           3.988771  5.620711
+factor(timegroup)5   -8.885642 -6.577730
+factor(timegroup)23 -10.563867 -8.255956
+factor(timegroup)37  -5.956220 -3.648309
+factor(timegroup)68 -10.869563 -7.950260
+                         2.5 %    97.5 %
+(Intercept)           4.270304  6.403577
+factor(timegroup)5  -10.611450 -7.594546
+factor(timegroup)23 -11.450563 -8.433659
+factor(timegroup)37  -9.107920 -6.091015
+factor(timegroup)68  -9.081096 -5.264981
+                          2.5 %     97.5 %
+(Intercept)          1.77834256 2.18362862
+factor(timegroup)5  -0.53992283 0.03323822
+factor(timegroup)23  0.92664954 1.49981059
+factor(timegroup)37  0.70003772 1.27319877
+factor(timegroup)68  0.02705552 0.75205327
+                         2.5 %    97.5 %
+(Intercept)         -3.7117284 -1.052799
+factor(timegroup)5  -1.4864432  2.273851
+factor(timegroup)23 -0.5714765  3.188817
+factor(timegroup)37  5.0483746  8.808669
+factor(timegroup)68  4.4122172  9.168655
+                         2.5 %    97.5 %
+(Intercept)          3.3737936  4.439183
+factor(timegroup)5  -3.2673222 -1.760634
+factor(timegroup)23 -2.6451497 -1.138462
+factor(timegroup)37 -0.3558358  1.150852
+factor(timegroup)68 -6.6954992 -4.789673
+                        2.5 %    97.5 %
+(Intercept)         -5.106091 -3.265136
+factor(timegroup)5   2.544422  5.147926
+factor(timegroup)23  3.185004  5.788507
+factor(timegroup)37  7.381218  9.984722
+factor(timegroup)68  5.445548  8.738748
+                        2.5 %    97.5 %
+(Intercept)         -3.996308 -2.696694
+factor(timegroup)5   4.601564  6.439496
+factor(timegroup)23  5.475203  7.313136
+factor(timegroup)37  6.112198  7.950131
+factor(timegroup)68  5.498608  7.823429
+                          2.5 %    97.5 %
+(Intercept)          3.06621148  4.207010
+factor(timegroup)5   0.09591225  1.709245
+factor(timegroup)23 -2.82182524 -1.208492
+factor(timegroup)37 -8.20933460 -6.596002
+factor(timegroup)68 -3.71589411 -1.675171
+                        2.5 %     97.5 %
+(Intercept)         -3.096551 -0.9539877
+factor(timegroup)5   3.858681  6.8887233
+factor(timegroup)23  4.965224  7.9952661
+factor(timegroup)37 -2.773690  0.2563520
+factor(timegroup)68 -3.435607  0.3971274
+                         2.5 %    97.5 %
+(Intercept)           4.161510  5.516254
+factor(timegroup)5   -9.562888 -7.646990
+factor(timegroup)23  -9.982445 -8.066547
+factor(timegroup)37 -10.402001 -8.486103
+factor(timegroup)68 -10.655773 -8.232332
+                         2.5 %    97.5 %
+(Intercept)         -5.0582838 -2.348707
+factor(timegroup)5   0.5054896  4.337411
+factor(timegroup)23  3.3405632  7.172484
+factor(timegroup)37  1.3738919  5.205813
+factor(timegroup)68 -1.4791464  3.367893
+                         2.5 %     97.5 %
+(Intercept)          0.8660278  2.5969638
+factor(timegroup)5  -4.5577821 -2.1098689
+factor(timegroup)23 -0.5987893  1.8491239
+factor(timegroup)37 -0.1404446  2.3074686
+factor(timegroup)68 -2.6379387  0.4584538
+                         2.5 %    97.5 %
+(Intercept)          1.6778621  3.591401
+factor(timegroup)5  -0.5882275  2.117925
+factor(timegroup)23 -4.3939301 -1.687778
+factor(timegroup)37 -6.4325334 -3.726381
+factor(timegroup)68 -8.9513224 -5.528281
+                         2.5 %    97.5 %
+(Intercept)         -5.4072750 -3.803065
+factor(timegroup)5  -0.7147911  1.553904
+factor(timegroup)23  3.4914998  5.760195
+factor(timegroup)37  5.4277757  7.696471
+factor(timegroup)68  6.3481813  9.217879
+                         2.5 %    97.5 %
+(Intercept)           3.749028  5.609720
+factor(timegroup)5   -9.635790 -7.004374
+factor(timegroup)23 -10.180695 -7.549280
+factor(timegroup)37 -10.180695 -7.549280
+factor(timegroup)68 -10.025773 -6.697266
+                        2.5 %    97.5 %
+(Intercept)          2.282374  3.837361
+factor(timegroup)5  -5.827684 -3.628601
+factor(timegroup)23 -8.764579 -6.565496
+factor(timegroup)37 -8.764579 -6.565496
+factor(timegroup)68 -8.132836 -5.351192
+                        2.5 %    97.5 %
+(Intercept)         -5.389762 -3.820579
+factor(timegroup)5   6.026634  8.245794
+factor(timegroup)23  5.670223  7.889383
+factor(timegroup)37  2.213545  4.432705
+factor(timegroup)68  5.110064  7.917105
+                         2.5 %     97.5 %
+(Intercept)         -5.0128661 -4.1974743
+factor(timegroup)5  -0.5765691  0.5765691
+factor(timegroup)23 -0.1570127  0.9961255
+factor(timegroup)37  8.6094376  9.7625758
+factor(timegroup)68 -0.7293086  0.7293086
+                        2.5 %      97.5 %
+(Intercept)          3.133479  4.62188646
+factor(timegroup)5  -2.032053  0.07287275
+factor(timegroup)23 -5.746016 -3.64109115
+factor(timegroup)37 -1.713914  0.39101175
+factor(timegroup)68 -4.786094 -2.12355035
+                         2.5 %     97.5 %
+(Intercept)         -1.1387131  0.9455726
+factor(timegroup)5  -5.0440279 -2.0964028
+factor(timegroup)23 -2.2764405  0.6711846
+factor(timegroup)37 -0.2770501  2.6705749
+factor(timegroup)68 -6.3728417 -2.6443581
+                        2.5 %    97.5 %
+(Intercept)          1.970368  4.001933
+factor(timegroup)5  -7.250356 -4.377290
+factor(timegroup)23 -7.607350 -4.734284
+factor(timegroup)37 -0.383219  2.489847
+factor(timegroup)68 -2.176417  1.457756
+                        2.5 %    97.5 %
+(Intercept)          2.966033  5.604150
+factor(timegroup)5  -9.497022 -5.766162
+factor(timegroup)23 -6.717147 -2.986287
+factor(timegroup)37 -7.594401 -3.863540
+factor(timegroup)68 -9.403817 -4.684610
+                         2.5 %    97.5 %
+(Intercept)         -5.1394936 -3.231734
+factor(timegroup)5  -1.2864276  1.411552
+factor(timegroup)23  0.8113544  3.509334
+factor(timegroup)37  6.8286340  9.526614
+factor(timegroup)68  2.7649801  6.177684
+                           2.5 %    97.5 %
+(Intercept)         -5.193664109 -4.016676
+factor(timegroup)5   0.006856734  1.671369
+factor(timegroup)23  6.445773172  8.110285
+factor(timegroup)37  5.819671000  7.484183
+factor(timegroup)68  8.093092249 10.198552
+                        2.5 %    97.5 %
+(Intercept)          3.726045  4.895439
+factor(timegroup)5  -9.742799 -8.089025
+factor(timegroup)23 -9.742799 -8.089025
+factor(timegroup)37 -8.841124 -7.187350
+factor(timegroup)68 -9.961850 -7.869974
+                        2.5 %    97.5 %
+(Intercept)          3.762307  4.910818
+factor(timegroup)5  -9.334296 -7.710057
+factor(timegroup)23 -9.753852 -8.129613
+factor(timegroup)37 -9.334296 -7.710057
+factor(timegroup)68 -9.968992 -7.914474
+                        2.5 %    97.5 %
+(Intercept)          1.454281  3.551868
+factor(timegroup)5  -7.332793 -4.366357
+factor(timegroup)23 -6.493681 -3.527244
+factor(timegroup)37 -8.109344 -5.142908
+factor(timegroup)68 -8.984384 -5.232105
+                        2.5 %     97.5 %
+(Intercept)          2.686860  4.6043701
+factor(timegroup)5  -7.284267 -4.5724976
+factor(timegroup)23 -4.800254 -2.0884853
+factor(timegroup)37 -3.521713 -0.8099435
+factor(timegroup)68 -3.579994 -0.1498474
+                         2.5 %    97.5 %
+(Intercept)          0.0602801  2.055461
+factor(timegroup)5  -5.3956206 -2.574009
+factor(timegroup)23 -4.0118269 -1.190216
+factor(timegroup)37  0.7526608  3.574272
+factor(timegroup)68  0.7475484  4.316636
+                         2.5 %    97.5 %
+(Intercept)           3.477714  4.898565
+factor(timegroup)5   -9.798003 -7.788616
+factor(timegroup)23  -9.798003 -7.788616
+factor(timegroup)37  -8.377500 -6.368113
+factor(timegroup)68 -10.064158 -7.522462
+                        2.5 %    97.5 %
+(Intercept)          3.736700  4.673828
+factor(timegroup)5  -9.473084 -8.147784
+factor(timegroup)23 -9.473084 -8.147784
+factor(timegroup)37 -8.990965 -7.665666
+factor(timegroup)68 -9.648627 -7.972241
+                         2.5 %     97.5 %
+(Intercept)         -5.0780352 -3.2931923
+factor(timegroup)5  -0.4229617  2.1011873
+factor(timegroup)23 -1.6816309  0.8425181
+factor(timegroup)37  6.8290371  9.3531861
+factor(timegroup)68  0.8907408  4.0835648
+                        2.5 %    97.5 %
+(Intercept)          4.096390  4.229689
+factor(timegroup)5  -8.862466 -8.673953
+factor(timegroup)23 -8.862466 -8.673953
+factor(timegroup)37 -8.862466 -8.673953
+factor(timegroup)68 -8.887436 -8.648983
+                         2.5 %     97.5 %
+(Intercept)         -4.7586408 -4.4516995
+factor(timegroup)5  -0.2170403  0.2170403
+factor(timegroup)23  7.3205509  7.7546314
+factor(timegroup)37  7.2087965  7.6428771
+factor(timegroup)68  7.2249791  7.7740525
+                         2.5 %    97.5 %
+(Intercept)         -0.3580347 1.0629286
+factor(timegroup)5  -0.6994086 1.3101370
+factor(timegroup)23  0.3726088 2.3821543
+factor(timegroup)37  2.5389162 4.5484617
+factor(timegroup)68 -1.8477901 0.6941063
+                        2.5 %    97.5 %
+(Intercept)         -5.209853 -4.000488
+factor(timegroup)5   5.690527  7.400827
+factor(timegroup)23  4.655991  6.366292
+factor(timegroup)37  5.990261  7.700561
+factor(timegroup)68  5.142211  7.305589
+                         2.5 %    97.5 %
+(Intercept)         -5.6627296 -3.547611
+factor(timegroup)5  -0.6565020  2.334728
+factor(timegroup)23  3.8197482  6.810978
+factor(timegroup)37  3.1745944  6.165824
+factor(timegroup)68  0.3102633  4.093903
+                        2.5 %    97.5 %
+(Intercept)          2.952860  4.786922
+factor(timegroup)5  -8.513269 -5.919514
+factor(timegroup)23 -9.289820 -6.696065
+factor(timegroup)37 -4.345042 -1.751288
+factor(timegroup)68 -6.067364 -2.786495
+                           2.5 %     97.5 %
+(Intercept)          1.601654282  3.0419584
+factor(timegroup)5  -1.307525181  0.7293724
+factor(timegroup)23 -3.212204419 -1.1753068
+factor(timegroup)37  0.002860516  2.0397581
+factor(timegroup)68 -6.231538591 -3.6550443
+                        2.5 %      97.5 %
+(Intercept)         -4.429328 -3.10278721
+factor(timegroup)5  -1.777118  0.09889282
+factor(timegroup)23 -1.777118  0.09889282
+factor(timegroup)37  6.881413  8.75742384
+factor(timegroup)68 -1.102582  1.27040500
+                         2.5 %     97.5 %
+(Intercept)         -4.7628130 -3.6084146
+factor(timegroup)5  -1.2358393  0.3967265
+factor(timegroup)23 -0.8162829  0.8162829
+factor(timegroup)37  7.3838622  9.0164280
+factor(timegroup)68 -1.4520817  0.6129689
+                           2.5 %    97.5 %
+(Intercept)         -0.346245195  1.627381
+factor(timegroup)5  -4.863805161 -2.072676
+factor(timegroup)23 -6.221746188 -3.430617
+factor(timegroup)37  1.131098549  3.922228
+factor(timegroup)68  0.008749367  3.539279
+                        2.5 %    97.5 %
+(Intercept)          3.765352  3.907933
+factor(timegroup)5  -8.542632 -8.340993
+factor(timegroup)23 -8.542632 -8.340993
+factor(timegroup)37 -8.542632 -8.340993
+factor(timegroup)68 -8.569340 -8.314285
+                         2.5 %     97.5 %
+(Intercept)          1.3160499  3.3966546
+factor(timegroup)5  -5.6649200 -2.7225007
+factor(timegroup)23 -3.3808553 -0.4384360
+factor(timegroup)37 -0.5652723  2.3771470
+factor(timegroup)68 -4.7169703 -0.9950716
+                          2.5 %      97.5 %
+(Intercept)         -4.63263477 -4.57770560
+factor(timegroup)5  -0.03884079  0.03884079
+factor(timegroup)23 -0.03884079  0.03884079
+factor(timegroup)37 -0.03884079  0.03884079
+factor(timegroup)68  9.05566729  9.15392758
+                         2.5 %     97.5 %
+(Intercept)         -5.1035823 -4.1067581
+factor(timegroup)5  -0.7048611  0.7048611
+factor(timegroup)23 -0.2227425  1.1869797
+factor(timegroup)37  7.4430560  8.8527783
+factor(timegroup)68  5.3566102  7.1397834
+                         2.5 %    97.5 %
+(Intercept)         -3.8377171 -1.765923
+factor(timegroup)5   0.8939083  3.823867
+factor(timegroup)23  2.2554575  5.185417
+factor(timegroup)37  4.5142501  7.444209
+factor(timegroup)68  0.1733144  3.879452
+                         2.5 %     97.5 %
+(Intercept)         -4.8058869 -4.4044535
+factor(timegroup)5  -0.2838563  0.2838563
+factor(timegroup)23  5.3020315  5.8697441
+factor(timegroup)37  6.9655587  7.5332713
+factor(timegroup)68 -0.3590530  0.3590530
+                        2.5 %    97.5 %
+(Intercept)         -5.681718 -3.528622
+factor(timegroup)5   4.887640  7.932577
+factor(timegroup)23  1.764172  4.809109
+factor(timegroup)37  0.317591  3.362528
+factor(timegroup)68 -1.925787  1.925787
+                        2.5 %    97.5 %
+(Intercept)         -5.098079 -3.273148
+factor(timegroup)5   5.761115  8.341956
+factor(timegroup)23  1.646474  4.227316
+factor(timegroup)37  3.382768  5.963610
+factor(timegroup)68  4.959778  8.224313
+                        2.5 %     97.5 %
+(Intercept)          1.239270  3.0489742
+factor(timegroup)5  -1.620326  0.9389823
+factor(timegroup)23 -3.978617 -1.4193082
+factor(timegroup)37 -1.382745  1.1765633
+factor(timegroup)68 -4.400571 -1.1632734
+                        2.5 %    97.5 %
+(Intercept)          2.912224  3.845204
+factor(timegroup)5  -8.643601 -7.324168
+factor(timegroup)23 -8.643601 -7.324168
+factor(timegroup)37 -8.161482 -6.842049
+factor(timegroup)68 -8.818367 -7.149401
+                        2.5 %     97.5 %
+(Intercept)         -3.767772 -1.9609930
+factor(timegroup)5  -2.179260  0.3759104
+factor(timegroup)23  2.810960  5.3661313
+factor(timegroup)37  4.379417  6.9345880
+factor(timegroup)68  3.717237  6.9493005
+                        2.5 %    97.5 %
+(Intercept)          3.351227  3.475615
+factor(timegroup)5  -8.106546 -7.930636
+factor(timegroup)23 -8.106546 -7.930636
+factor(timegroup)37 -8.106546 -7.930636
+factor(timegroup)68 -8.129847 -7.907335
+                        2.5 %     97.5 %
+(Intercept)          1.101164  3.1916932
+factor(timegroup)5  -6.908595 -3.9521401
+factor(timegroup)23 -5.870938 -2.9144837
+factor(timegroup)37 -2.867873  0.0885815
+factor(timegroup)68 -2.215465  1.5241865
+                         2.5 %    97.5 %
+(Intercept)         -5.4073791 -3.802961
+factor(timegroup)5   3.2419568  5.510946
+factor(timegroup)23 -0.7149383  1.554051
+factor(timegroup)37  5.3835421  7.652531
+factor(timegroup)68  5.3102282  8.180298
+                        2.5 %    97.5 %
+(Intercept)         -5.425432 -3.784908
+factor(timegroup)5  -1.160026  1.160026
+factor(timegroup)23  2.258987  4.579040
+factor(timegroup)37  5.205068  7.525120
+factor(timegroup)68  1.301743  4.236402
+                          2.5 %    97.5 %
+(Intercept)         -5.09857813 -2.433537
+factor(timegroup)5  -0.50067526  3.268263
+factor(timegroup)23 -1.46491252  2.304025
+factor(timegroup)37  2.36783971  6.136778
+factor(timegroup)68 -0.09769128  4.669680
+                        2.5 %    97.5 %
+(Intercept)          1.644836  3.946584
+factor(timegroup)5  -7.250964 -3.995801
+factor(timegroup)23 -8.608905 -5.353742
+factor(timegroup)37 -7.287674 -4.032511
+factor(timegroup)68 -8.536602 -4.419110
+                        2.5 %    97.5 %
+(Intercept)          2.284128  3.863225
+factor(timegroup)5  -7.956324 -5.723144
+factor(timegroup)23 -8.375881 -6.142700
+factor(timegroup)37 -8.375881 -6.142700
+factor(timegroup)68 -9.091234 -6.266460
+                        2.5 %    97.5 %
+(Intercept)          1.369560  3.226618
+factor(timegroup)5  -7.377285 -4.751008
+factor(timegroup)23 -7.796841 -5.170564
+factor(timegroup)37 -7.796841 -5.170564
+factor(timegroup)68 -5.657553 -2.335546
+                         2.5 %    97.5 %
+(Intercept)          0.7130930  2.722854
+factor(timegroup)5  -7.3247031 -4.482472
+factor(timegroup)23 -3.7873644 -0.945133
+factor(timegroup)37 -0.9828712  1.859360
+factor(timegroup)68 -6.2746805 -2.679511
+                         2.5 %    97.5 %
+(Intercept)         -5.5791212 -3.631219
+factor(timegroup)5  -0.9578184  1.796931
+factor(timegroup)23 -0.8952561  1.859493
+factor(timegroup)37  2.6267126  5.381462
+factor(timegroup)68  6.4974525  9.981966
+                        2.5 %     97.5 %
+(Intercept)         -5.160482 -3.2107453
+factor(timegroup)5  -1.798229  0.9591158
+factor(timegroup)23  4.523797  7.2811417
+factor(timegroup)37  0.550027  3.3073715
+factor(timegroup)68 -1.240430  2.2473655
+                          2.5 %    97.5 %
+(Intercept)         -5.54655045 -3.663790
+factor(timegroup)5   0.08919051  2.751816
+factor(timegroup)23  4.29570611  6.958332
+factor(timegroup)37  3.90677406  6.569400
+factor(timegroup)68  1.52187600  4.889860
+                            2.5 %     97.5 %
+(Intercept)         -5.1194966501 -3.2517309
+factor(timegroup)5  -1.7402662377  0.9011534
+factor(timegroup)23  0.0005216221  2.6419413
+factor(timegroup)37  5.2150642548  7.8564839
+factor(timegroup)68 -0.2440886766  3.0970723
+                        2.5 %    97.5 %
+(Intercept)          1.261513  3.569592
+factor(timegroup)5  -7.813669 -4.549552
+factor(timegroup)23 -7.813669 -4.549552
+factor(timegroup)37 -5.911047 -2.646930
+factor(timegroup)68 -8.162108 -4.033290
+                        2.5 %    97.5 %
+(Intercept)          2.014939  2.846480
+factor(timegroup)5  -7.623868 -6.447891
+factor(timegroup)23 -7.204312 -6.028335
+factor(timegroup)37 -7.623868 -6.447891
+factor(timegroup)68 -7.779633 -6.292127
+                        2.5 %    97.5 %
+(Intercept)          1.191078  3.168832
+factor(timegroup)5  -5.960702 -3.163735
+factor(timegroup)23 -8.183609 -5.386642
+factor(timegroup)37 -7.764052 -4.967085
+factor(timegroup)68 -6.570398 -3.032483
+                        2.5 %    97.5 %
+(Intercept)          1.716648  2.966635
+factor(timegroup)5  -7.830686 -6.062938
+factor(timegroup)23 -7.830686 -6.062938
+factor(timegroup)37 -7.411130 -5.643381
+factor(timegroup)68 -6.218786 -3.982741
+                         2.5 %     97.5 %
+(Intercept)          0.4632267  3.0658556
+factor(timegroup)5  -6.1122658 -2.4315928
+factor(timegroup)23 -4.3905120 -0.7098390
+factor(timegroup)37 -3.8624018 -0.1817288
+factor(timegroup)68 -8.6975733 -4.0418493
+                         2.5 %     97.5 %
+(Intercept)         -4.7062132 -4.5041272
+factor(timegroup)5  -0.1428964  0.1428964
+factor(timegroup)23 -0.1428964  0.1428964
+factor(timegroup)37  6.8101401  7.0959329
+factor(timegroup)68 -0.1807512  0.1807512
+                        2.5 %    97.5 %
+(Intercept)          1.119540  2.366469
+factor(timegroup)5  -7.229886 -5.466463
+factor(timegroup)23 -7.229886 -5.466463
+factor(timegroup)37 -6.810330 -5.046907
+factor(timegroup)68 -4.694389 -2.463816
+                        2.5 %    97.5 %
+(Intercept)          2.102290  2.332587
+factor(timegroup)5  -6.985453 -6.659764
+factor(timegroup)23 -6.985453 -6.659764
+factor(timegroup)37 -6.985453 -6.659764
+factor(timegroup)68 -7.028593 -6.616624
+                        2.5 %    97.5 %
+(Intercept)         -4.971926 -3.399301
+factor(timegroup)5  -1.112014  1.112014
+factor(timegroup)23  4.533916  6.757943
+factor(timegroup)37  3.971028  6.195055
+factor(timegroup)68  1.080554  3.893751
+                        2.5 %    97.5 %
+(Intercept)         -5.375152 -3.835189
+factor(timegroup)5   5.261602  7.439438
+factor(timegroup)23 -1.088918  1.088918
+factor(timegroup)37  1.196550  3.374387
+factor(timegroup)68 -1.377385  1.377385
+                        2.5 %      97.5 %
+(Intercept)         -3.469183 -0.82483838
+factor(timegroup)5  -2.230211  1.50945618
+factor(timegroup)23 -1.685531  2.05413702
+factor(timegroup)37  1.158623  4.89829017
+factor(timegroup)68 -4.823333 -0.09298622
+                         2.5 %    97.5 %
+(Intercept)         -5.3996740 -3.810666
+factor(timegroup)5  -0.7040416  1.543154
+factor(timegroup)23  5.2693924  7.516588
+factor(timegroup)37  0.5546276  2.801824
+factor(timegroup)68 -1.4212516  1.421252
+                         2.5 %     97.5 %
+(Intercept)          0.5355353  2.3183988
+factor(timegroup)5  -6.8732557 -4.3519060
+factor(timegroup)23 -7.2928121 -4.7714624
+factor(timegroup)37 -5.9715807 -3.4502310
+factor(timegroup)68 -3.6594087 -0.4701255
+                         2.5 %     97.5 %
+(Intercept)         -5.2422105 -3.9681299
+factor(timegroup)5  -0.9009111  0.9009111
+factor(timegroup)23 -0.9009111  0.9009111
+factor(timegroup)37  3.4231609  5.2249830
+factor(timegroup)68  5.3572621  7.6364069
+                         2.5 %     97.5 %
+(Intercept)         -2.3161341 -0.1813037
+factor(timegroup)5   0.4870854  3.5061915
+factor(timegroup)23 -4.4464479 -1.4273418
+factor(timegroup)37 -4.4464479 -1.4273418
+factor(timegroup)68 -4.3428775 -0.5239768
